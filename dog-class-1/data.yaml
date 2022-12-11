@@ -1,0 +1,14 @@
+names:
+- Blenheim_spaniel
+- basset
+- beagle
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: dog-class
+  url: https://universe.roboflow.com/le-trung-hau/dog-class/dataset/1
+  version: 1
+  workspace: le-trung-hau
+test: ../test/images
+train: dog-class-1/train/images
+val: dog-class-1/valid/images
